@@ -1436,7 +1436,7 @@ contain a completely different set of percent escapes all of which refer
 to elements of the time and date. On most systems, the documentation for
 the `strftime` function will tell you what these are. zsh has a few of
 its own, given in the `zshmisc` manual page in the `PROMPT EXPANSION`
-section. For example, I use \%D{%L:%M}\` which gives the time in hours
+section. For example, I use \``%D{%L:%M}\` which gives the time in hours
 and minutes, with the hours as a single digit for 1 to 9; it looks more
 homely to my unsophisticated eyes.
 
